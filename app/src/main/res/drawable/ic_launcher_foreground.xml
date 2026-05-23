@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Circular Shield / Safe zone backing -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M54,20 A34,34 0 1,0 54,88 A34,34 0 1,0 54,20 Z" />
+        
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 A30,30 0 1,0 54,84 A30,30 0 1,0 54,24 Z" />
+
+    <!-- Highly contrasting central industrial gears & wrench logo -->
+    <!-- Gear center / base shape -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M54,38 A16,16 0 1,0 54,70 A16,16 0 1,0 54,38 Z M54,46 A8,8 0 1,1 54,62 A8,8 0 1,1 54,46 Z" />
+    
+    <!-- Gear Teeth -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M51,33 h6 v6 h-6 z M51,69 h6 v6 h-6 z M33,51 h6 v6 h-6 z M69,51 h6 v6 h-6 z M41.5,41.5 l4.2,4.2 l-4.2,4.2 l-4.2,-4.2 z M62.3,62.3 l4.2,4.2 l-4.2,4.2 l-4.2,-4.2 z M41.5,66.5 l4.2,-4.2 l4.2,4.2 l-4.2,4.2 z M62.3,37.3 l4.2,4.2 l-4.2,4.2 l-4.2,-4.2 z" />
+
+    <!-- Diagnostic Wrench symbol overlay -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M34,74 L40,68 L44,72 L38,78 Z" />
+    
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M38,78 L74,42 C76,40 76,36 74,34 C72,32 68,32 66,34 L30,70 c-2,2 -2,6 0,8 c2,2 6,2 8,0 z M69,37 L71,39 C72,40 72,41 71,42 L68,45 C67,46 66,46 65,45 L63,43 C62,42 62,41 63,40 L66,37 C67,36 68,36 69,37 z" />
+</vector>

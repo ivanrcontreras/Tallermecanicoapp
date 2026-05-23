@@ -1,0 +1,6 @@
+{
+  "name": "Taller Mecánico",
+  "description": "App de gestión para talleres mecánicos, registro de clientes, vehículos, mantenimientos con alertas y chequeo de componentes con generación de PDF para compartir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
